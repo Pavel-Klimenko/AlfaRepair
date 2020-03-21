@@ -1,4 +1,6 @@
 # AlfaRepair
+Сверстал LandingPage на основе PSD макета, предоставленного заказчиком.
+Использован JS, Слайдер Slick.
 
 ![Screen_1](img/Screen1.png "Экран1")
 ![Screen_2](img/Screen2.png "Экран2")
