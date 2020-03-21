@@ -1,0 +1,12 @@
+.block_6 {
+  background: url('../../img/block_6/background.jpg') center no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 487px;
+}
+
+.download_agreement {
+  padding-top: 165px;
+  position: absolute;
+  padding-left: 700px;
+}

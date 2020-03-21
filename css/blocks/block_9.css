@@ -1,0 +1,26 @@
+.block_9 {
+  background: url('../../img/block_9/background.jpg') center no-repeat;
+  background-size: cover;
+  height: 850px;
+  padding-top: 140px;
+}
+
+.get_calculation_form {
+  position: absolute;
+  margin-left: 1000px;
+  margin-top: 560px;	
+}
+
+.owner_company_name {
+  position: absolute;
+  margin-left: 520px;
+  margin-top: 320px;
+  font-size: 23px;  
+}
+
+.owner_company {
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 365px;
+  font-size: 19px;  
+}

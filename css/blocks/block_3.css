@@ -1,0 +1,91 @@
+.block_3 {
+  background: url('../../img/block_3/background.jpg') center no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 920px;
+}
+
+.description {
+  padding-top: 300px;
+  position: absolute;
+  padding-left: 125px;
+}
+
+.get_layout {
+  padding-top: 550px;
+  position: absolute;
+  padding-left: 125px;
+}
+
+.houses {
+  display: flex; 
+  padding-left: 122px;
+}
+
+.original, .woodhouse, .bigwood, .averagewood {
+  position: relative;
+  margin-top: 630px;
+  margin-right: 26px;
+}
+
+.rectangle_dark{
+  position: absolute;
+  display:none;
+  border-radius: 15px;
+}
+
+.rectangle_dark_text {
+  position: absolute;
+  display:none;
+  margin-left: 70px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.block3_img {
+  border-radius: 15px;	
+}
+
+.phone_number {
+  width: 250px;
+  height: 30px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  border-radius: 8px;
+}
+
+.get_3d_layout {
+  position: absolute;
+  border-radius: 8px;
+  margin-left: 10px;
+}
+
+.original:hover .rectangle_dark {
+	display:block;
+	opacity: 0.8;
+}
+.original:hover .rectangle_dark_text {
+	display:block;
+}
+.woodhouse:hover .rectangle_dark {
+	display:block;
+	opacity: 0.8;
+}
+.woodhouse:hover .rectangle_dark_text {
+	display:block;
+}
+.bigwood:hover .rectangle_dark {
+	display:block;
+	opacity: 0.8;
+}
+.bigwood:hover .rectangle_dark_text {
+	display:block;
+}
+.averagewood:hover .rectangle_dark {
+	display:block;
+	opacity: 0.8;
+}
+.averagewood:hover .rectangle_dark_text {
+	display:block;
+}

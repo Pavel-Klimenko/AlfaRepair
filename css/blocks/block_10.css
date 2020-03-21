@@ -1,0 +1,52 @@
+.block_10 {
+  height: 966px;
+  position: relative;
+}
+
+.rectangle_img {
+  padding-top: 100px;
+  position: absolute;
+  padding-left: 650px;
+}
+
+.map {
+  padding-top: 305px;
+  position: absolute;
+  padding-left: 678px;
+}
+
+.ipad {
+  position: absolute;
+  padding-top: 280px;
+  padding-left: 645px;	
+}
+
+.left_form {
+  padding-top: 100px;
+  position: absolute;
+  padding-left: 156px;
+}
+
+.range {
+  position: absolute;
+  padding-top: 305px;
+  padding-left: 230px;
+}
+
+.place {
+  position: absolute;
+  padding-top: 375px;
+  padding-left: 230px;
+}
+
+.left_send_form {
+  position: absolute;
+  padding-top: 705px;
+  padding-left: 230px;	
+}	
+
+
+
+
+
+

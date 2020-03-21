@@ -1,0 +1,77 @@
+header {
+  display: inline-block;
+  height: 104px;
+  background-color: #FFFFFF;
+}
+	
+.header_logo {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 122px;
+}
+
+.messangers {
+  display: flex;
+  padding-left: 15px;
+}
+
+.viber, .whatsapp, .telegram {
+  position: relative;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.header_3D {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 500px;
+}
+
+.header_time {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 771px;
+}
+
+.header_social {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 1037px;
+}
+
+.header_designer {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 1260px;
+}
+
+.header_call_me {
+  padding-top: 20px;
+  position: absolute;
+  padding-left: 1347px;
+}
+
+.main_menu {
+	width: 1600px;
+	background-color: #ECF0F2;
+	position: relative;
+	height: 91px;
+}
+
+ul {
+  list-style: none; 
+  margin: 0; 
+  padding-left: 122px; 
+  display: flex;
+}
+a {
+  text-decoration: none;
+}
+
+li {
+  position: relative;
+  margin-top: 29px;
+  margin-right: 70px;
+  text-align: center;
+  font-size: 17px;
+}

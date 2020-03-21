@@ -1,0 +1,50 @@
+.order_project {
+  display: flex;
+  height: 676px; 
+  padding-left: 200px;
+}
+
+.beatrisa, .bath, .bower {
+  position: relative;
+  margin-top: 60px;
+  margin-right: 30px;
+}
+
+.rectangle_dark_block5 {
+  position: absolute;
+  display:none;
+  border-radius: 15px;
+}
+
+.beatrisa:hover .rectangle_dark_block5 {
+	display:block;
+	opacity: 0.7;
+}
+.beatrisa:hover {
+	transform: scale(1.05);
+}
+
+.bath:hover .rectangle_dark_block5 {
+	display:block;
+	opacity: 0.7;
+}
+
+.bath:hover {
+	transform: scale(1.05);
+}
+
+.bower:hover .rectangle_dark_block5 {
+	display:block;
+	opacity: 0.7;
+}
+.bower:hover {
+	transform: scale(1.05);
+}
+
+.img_block5 {
+  border-radius: 15px;
+}
+
+.block_title {
+  background-color: #FFFFFF;
+}

@@ -1,0 +1,40 @@
+.block_1 {
+  background: url('../../img/block_1/background.jpg') center no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 710px;
+}
+
+.request{
+  position: absolute;
+  margin-left: 1163px;
+  margin-top: 300px;
+}
+
+.send_button {
+  position: absolute;
+  margin-top: 15px;
+  margin-left: -30px;
+}
+
+ .name, .tel_number, .email {
+  margin-left: -30px;
+  width: 300px;
+  height: 30px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.task {
+  margin-left: -30px;
+  width: 312px;
+  height: 40px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  margin-top: 15px;
+}

@@ -1,0 +1,50 @@
+.block_4 {
+  height: 780px;
+background-color: #FFFFFF;
+}
+
+.slider-for {
+  padding-left: 30%;
+  padding-top: 20px;
+}
+
+.slider-nav {
+  display: flex;
+  position: absolute;
+  width: 1150px;
+  margin-left: 8%;
+}
+
+/*
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
+
+*/
+
+.small-slide:hover {
+  border: 3px solid green;
+}
+
+.small-slide, .big-slide {
+  border-radius: 15px;
+}

@@ -1,0 +1,39 @@
+footer {
+  display: inline-block;
+  height: 150px;
+  padding-top: 150px;
+}
+
+.civil-engineering {
+  position: absolute;
+  padding-left: 258px;
+  padding-top: 16px;
+}
+
+.excursion {
+  position: absolute;
+  padding-left: 534px;
+  padding-top: 16px;
+}
+
+.close {
+  position: absolute;
+  padding-left: 1472px;
+  padding-top: 27px;
+}
+
+ .tel_number_footer, .name_footer{
+  width: 250px;
+  height: 30px;
+  font-size: 13px;
+  padding: 6px 0 4px 10px;
+  border: 1px solid #cecece;
+  border-radius: 8px;
+  margin-top: 15px;
+}
+
+.send_button_footer {
+  padding-left: 10px;
+  padding-top: 10px;
+  position: absolute;
+}
